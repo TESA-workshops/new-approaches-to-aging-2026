@@ -1,4 +1,4 @@
-# new-approaches-to-aging-2026
+# 2026 TESA worskhop - new approaches to fish aging for stock assessments
 Repository to support the 2026 TESA workshop on new approaches to fish aging for stock assessments
 
 ## Logistics
