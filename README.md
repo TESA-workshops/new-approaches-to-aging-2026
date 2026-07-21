@@ -29,7 +29,7 @@ Repository to support the 2026 TESA workshop on new approaches to fish aging for
 | 13:30 | [Constructing the epigenetic clock of fish using the Atlantic herring as an example – preliminary results](presentations\Wąs-Barcz\ZEGAR_final.pdf) | Anna Wąs-Barcz/Joanna Całkiewicz, National Marine Fisheries Research Institute (Poland) |
 | 14:00 | [Integration of Fourier transform near-infrared spectroscopy into the production ageing process](presentations\Chamberlin\Chamberlin FT-NIR Integration_GitHub.pdf) | Derek Chamberlin, NOAA Fisheries (USA) |
 | 14:30 | Break |  |
-| 14:45 | [Setting the stage for developing deep learning tools that support age estimation using images of otoliths and other hard parts](presentations/Ricard/TESA-ageing-workshop2026-Ricard-slides.html) | Daniel Ricard, DFO (Gulf) |
+| 14:45 | [Setting the stage for developing deep learning tools that support age estimation using images of otoliths and other hard parts](presentations/Ricard/Daniel-Ricard-DFO-Dots-presentation-TESA-2026.pdf) | Daniel Ricard, DFO (Gulf) |
 | 15:10 | [Investigating the use of FT-NIR spectroscopy for aging marine mammals and fish and for species identification](presentations\Adamack\Aaron Adamack - presentation reduced.pdf) | Aaron Adamack, DFO (NL) |
 | 16:00 | Q&A and Next Steps |  All participants|
 
