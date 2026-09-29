@@ -74,8 +74,7 @@ Repository to support the 2026 TESA workshop on new approaches to fish aging for
 | 34 | DFO PAC | Stephen Wischniowski |
 | 35 | DFO PAC | Sarah Gravel |
 | 36 | DFO QC | Joradn Ouellette-Plante |
-| 37 | DFO QC | Jean-François Lussier
- |
+| 37 | DFO QC | Jean-François Lussier |
 | 38 | DFO QC | Mélanie Boudreau |
 | 39 | DFO QC | Hélène Dionne |
 | 40 | DFO QC | Mathieu Boudreau |
